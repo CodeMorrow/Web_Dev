@@ -1,1 +1,1 @@
-# Web_Dev
+These are the projects in completed through Brad Hussey's Ultimate Wed Designer and Developer Course. 
